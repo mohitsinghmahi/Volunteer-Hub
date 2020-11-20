@@ -1,0 +1,72 @@
+body 
+{
+	background-color: #CFD5D5;
+}
+
+.primary
+{
+	background:#879090;
+	color: white;
+	padding: 19px;
+	padding-right: 526px;
+	padding-left: 526px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: #111;
+}
+
+.active {
+    background-color: #4CAF50;
+}
+
+.secondary
+{
+	font-family: verdana;
+
+}
+
+.tertiary
+{
+	color:#879090; 
+	font-family:verdana;
+}
+
+.quatrenary
+{
+	font-family: verdana;
+	background :#879090;
+    padding: 20px;
+	color: white;
+	
+}
+
+.fifthery{
+
+	font-family: verdana;
+	color:#879090;
+
+}
+
+
+
